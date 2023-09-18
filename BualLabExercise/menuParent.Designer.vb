@@ -219,8 +219,10 @@ Partial Class menuParent
         IsMdiContainer = True
         MainMenuStrip = MenuStrip
         Margin = New Padding(4, 3, 4, 3)
+        MaximizeBox = False
         Name = "menuParent"
         Text = "menuParent"
+        WindowState = FormWindowState.Maximized
         MenuStrip.ResumeLayout(False)
         MenuStrip.PerformLayout()
         ToolStrip.ResumeLayout(False)
