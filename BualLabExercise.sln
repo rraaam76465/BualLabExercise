@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BualLabExercise", "BualLabExercise\BualLabExercise.vbproj", "{91748A9B-2863-4DF6-8438-E489B3909703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91748A9B-2863-4DF6-8438-E489B3909703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91748A9B-2863-4DF6-8438-E489B3909703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91748A9B-2863-4DF6-8438-E489B3909703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91748A9B-2863-4DF6-8438-E489B3909703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3B404B9-7FEA-4AED-8EF1-CC4C199EE4B2}
+	EndGlobalSection
+EndGlobal
