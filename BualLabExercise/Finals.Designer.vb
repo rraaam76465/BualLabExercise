@@ -193,7 +193,7 @@ Partial Class Finals
         Button3.Name = "Button3"
         Button3.Size = New Size(75, 23)
         Button3.TabIndex = 36
-        Button3.Text = "NEW DATA"
+        Button3.Text = "CANCEL"
         Button3.UseVisualStyleBackColor = True
         ' 
         ' Button2
@@ -202,7 +202,7 @@ Partial Class Finals
         Button2.Name = "Button2"
         Button2.Size = New Size(75, 23)
         Button2.TabIndex = 35
-        Button2.Text = "FINAL"
+        Button2.Text = "NEW DATA"
         Button2.UseVisualStyleBackColor = True
         ' 
         ' Button1

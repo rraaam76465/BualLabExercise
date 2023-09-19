@@ -90,4 +90,17 @@ Public Class menuParent
         Close()
     End Sub
 
+    Private Sub ToolStripMenuItem7_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem7.Click
+        AboutSystem.MdiParent = Me
+        AboutSystem.StartPosition = FormStartPosition.CenterScreen
+        AboutSystem.WindowState = FormWindowState.Normal
+        AboutSystem.Show()
+    End Sub
+
+    Private Sub ToolStripMenuItem6_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem6.Click
+        Author.MdiParent = Me
+        Author.StartPosition = FormStartPosition.CenterScreen
+        Author.WindowState = FormWindowState.Normal
+        Author.Show()
+    End Sub
 End Class

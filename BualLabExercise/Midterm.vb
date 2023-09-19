@@ -42,7 +42,7 @@
         finalsForm.MdiParent = Me.MdiParent
         finalsForm.StartPosition = FormStartPosition.CenterScreen
         finalsForm.Show()
-
+        Me.Close()
 
     End Sub
 

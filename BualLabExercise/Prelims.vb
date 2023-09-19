@@ -36,7 +36,7 @@
         midtermForm.MdiParent = Me.MdiParent
         midtermForm.StartPosition = FormStartPosition.CenterScreen
         midtermForm.Show()
-
+        Me.Close()
 
 
     End Sub
